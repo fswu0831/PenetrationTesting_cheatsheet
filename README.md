@@ -513,6 +513,7 @@ Linux:
 /root/.ssh/authorized_keys
 /home/<username>/.ssh/authorized_keys
 /home/<username>/.ssh/id_rsa
+var/log/auth.log
 ```
 
 Windows:  
