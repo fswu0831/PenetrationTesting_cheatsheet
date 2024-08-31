@@ -3914,6 +3914,10 @@ OpenNetAdmin 18.1.1 - Remote Code Execution:
 URLにはhttp://10.10.10.171/ona/ のように最後にスラッシュを付ける。
 https://www.exploit-db.com/exploits/47691
 ```
+## Git command with SSH creds
+```
+GIT_SSH_COMMAND='ssh -i ~/OSCP/Hunit/id_rsa -p 43022' git push origin master
+```
 
 ## Privilege Escalation(Linux)
 ```
