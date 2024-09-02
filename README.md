@@ -515,6 +515,7 @@ Linux:
 /home/<username>/.ssh/id_rsa
 var/log/auth.log
 ```
+Details: https://sushant747.gitbooks.io/total-oscp-guide/content/local_file_inclusion.html
 
 Windows:  
 ```
